@@ -98,6 +98,4 @@ The scripts use standard Linux tools such as:
 - Apache configuration directory: `/etc/apache2`
 - Apache service: `apache2.service`
 
-## Note
 
-The final report PDF is submitted separately and written in my own words.
